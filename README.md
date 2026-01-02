@@ -1,4 +1,5 @@
 Pre-built Ortho4XP v1.40 basepack tiles for Italy and Alps to be used with Autoortho or X-Plane Map Enhancement.
+They use LiDAR 1* DEMs from https://sonny.4lima.de/. They support XP12 Seasons and bathymetry.
 
 Usage:
 
