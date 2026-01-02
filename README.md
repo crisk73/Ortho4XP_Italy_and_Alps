@@ -1,4 +1,4 @@
-Pre-built Ortho4XP v1.40 tiles for Italy and Alps to be used with Autoortho or X-Plane Map Enhancement.
+Pre-built Ortho4XP v1.40 basepack tiles for Italy and Alps to be used with Autoortho or X-Plane Map Enhancement.
 
 Usage:
 
